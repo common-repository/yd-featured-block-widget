@@ -1,0 +1,63 @@
+# YD FEATURED BOX WIDGET.
+# Copyright (C) 2010 yann.com
+# This file is distributed under the same license as the yd-featured-block-widget package.
+# FIRST AUTHOR <yann@abc.fr>, 2010.
+# <a href="http://wordpress.org/tag/yd-featured-block-widget">
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YD Featured Box Widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/yd-featured-block-widget\n"
+"POT-Creation-Date: 2010-10-13 17:42+0000\n"
+"PO-Revision-Date: 2010-10-14 14:39+0100\n"
+"Last-Translator: Yann Dubois <yann@abc.fr>\n"
+"Language-Team: Y.Dubois <yann@abc.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+# === #: yd-featured-block-widget.php
+#: yd-featured-block-widget.php:47
+msgid "YD Featured Block"
+msgstr "YD Bloc de MEA"
+
+#: yd-featured-block-widget.php:60
+msgid "Featured Block"
+msgstr "Bloc de mise en avant"
+
+#: yd-featured-block-widget.php:66
+msgid "This plugin has no option... yet!"
+msgstr "Cette extension n'a pas (encore) d'option !"
+
+#: yd-featured-block-widget.php:72
+msgid "Title:"
+msgstr "Titre :"
+
+#: yd-featured-block-widget.php:73
+msgid "Page address:"
+msgstr "Adresse page :"
+
+#: yd-featured-block-widget.php:74
+msgid "Image address:"
+msgstr "Adresse image :"
+
+#: yd-featured-block-widget.php:75
+msgid "Subtitle:"
+msgstr "Sous-titre :"
+
+# ===
+#. Plugin URI of an extension
+msgid "http://www.yann.com/wp-plugins/yd-featured-block-widget"
+msgstr "http://www.yann.com/wp-plugins/yd-featured-block-widget"
+
+#. Author of an extension
+msgid "Yann Dubois"
+msgstr "Yann Dubois"
+
+#. Author URI of an extension
+msgid "http://www.yann.com/"
+msgstr "http://www.yann.com/"
+

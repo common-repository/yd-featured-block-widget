@@ -1,0 +1,47 @@
+/*
+Default CSS Styles for the yd_featured_block_widget plug-in
+YD Featured Box
+Version 0.1.0
+*/
+
+/**
+Featured Boxes
+**/
+
+div.yd_featured_box {
+	width: 160px;
+	height: 160px;
+	background-color: white;
+	position: relative;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+div.yd_featured_box img {
+	width: 160px;
+	height: 120px;
+	position: absolute;
+	top:22px;
+}
+div.yd_featured_box div h2 {
+	background:transparent;
+}
+div.ydfb_text_top {
+	position: absolute;
+	top: 0;
+	height: 25px;
+	width: 130px;
+	background-color: #EDE723;
+	padding: 0 15px;
+	-moz-border-radius: 5px 0 0 0;
+	border-top-left-radius: 5px 5px;
+	border-bottom: 2px solid #645957;
+}
+div.ydfb_text_bottom {
+	position: absolute;
+	top: 117px;
+	height: 38px;
+	width: 130px;
+	background-color: #ccc;
+	padding: 2px 15px;
+	border-top: 2px solid #EEE;
+}
